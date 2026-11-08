@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=GPU Panel
+GenericName=GPU Monitor
+Comment=GPU dashboard
+Exec=gpupanel
+Icon=gpu-panel
+Terminal=false
+Categories=System;Monitor;
+Keywords=GPU;AMD;NVIDIA;Intel;LACT;monitor;overlay;
+StartupWMClass=gpupanel
